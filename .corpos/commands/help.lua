@@ -1,0 +1,7 @@
+print("--------------------------------------------------------")
+print("debug - permet d'activer le debug mode")
+print("help / aide - permet 'avoir de l'aide")
+print("Firewolf - Permet d'ouvrir un navigateur internet/rednet")
+print("nano - un ide (c'est la commands edit)")
+print("ll / l - list des dossier au vous etes")
+print("--------------------------------------------------------")
