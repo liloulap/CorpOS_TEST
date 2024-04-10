@@ -16,6 +16,7 @@ salias("reinstallOS","/.corpos/debug/reinstallOS.lua")
 salias("version","/.corpos/debug/v.lua")
 salias("v","/.corpos/debug/v.lua")
 salias("uninstall","/.corpos/debug/uninstall.lua")
+salias("update","/.corpos/debug/reinstallOS.lua")
 
 ------------------------------
 --Propiété de l'ecran
@@ -46,9 +47,8 @@ term.setCursorPos(1,1)
 --2. Demmarage
 -------------------------------
 
-print("----------------------------------------------------------------------------------")
+print("------------------------------------------")
 textutils.slowPrint("Bienvenue dans CorpOS (DEBUG MOD)")
 print("N'oublier pas d'aller passé sur le github pour savoir si il y a des mise a jours !")
 print("https://github.com/legeekkylian/CorpOS")
-print("----------------------------------------------------------------------------------")
-
+print("------------------------------------------")

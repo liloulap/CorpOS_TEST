@@ -48,9 +48,9 @@ term.setCursorPos(1,1)
 --2. Demmarage
 -------------------------------
 
-print("----------------------------------------------------------------------------------")
+print("------------------------------------------")
 textutils.slowPrint("Bienvenue dans CorpOS")
+sleep(1)
 print("N'oublier pas d'aller passé sur le github pour savoir si il y a des mise a jours !")
 print("https://github.com/legeekkylian/CorpOS")
-print("----------------------------------------------------------------------------------")
-
+print("------------------------------------------")
