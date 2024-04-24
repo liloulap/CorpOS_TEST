@@ -20,7 +20,7 @@ salias("debug","/.corpos/debug/debug.lua")
 salias("help","/.corpos/commands/help.lua")
 
 ------------------------------
---Propiété de l'ecran
+--1. Propiété de l'ecran
 ------------------------------
 
 term.clear()
@@ -31,14 +31,17 @@ term.setCursorPos(1,1)
 -------------------------------
 
 print("Chargement de CorpOS")
+term.setCursorPos(2,1)
 print("--------------------------------")
+term.setCursorPos(4,1)
+print("--------------------------------")
+term.setCursorPos(3,1)
 textutils.slowPrint("################################")
-print("--------------------------------")
 
 sleep(3)
 
 ------------------------------
---Propiété de l'ecran
+--2. Propiété de l'ecran
 ------------------------------
 
 term.clear()
