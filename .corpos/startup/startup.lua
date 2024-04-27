@@ -8,4 +8,4 @@ run = shell.run
 --lancement des program interne
 -------------------------------
 
-run("/.corpos/run.lua")
+run("/.corpos/boot.lua")
